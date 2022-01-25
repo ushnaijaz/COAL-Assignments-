@@ -1,4 +1,5 @@
 # Author: Ushna Ijaz
+# Copyright © 2021 Ushna Ijaz . All rights reserved.
 # Date: June 9,2021  
 # Description: Lab 3 task 1
 
