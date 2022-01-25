@@ -1,4 +1,5 @@
 # Author: Ushna Ijaz
+# Copyright © 2021 Ushna Ijaz . All rights reserved.
 # Date: June 9,2021  
 # Description: Lab 3 task 2
 
@@ -71,7 +72,7 @@ mul $t6,$t0,$t2		# p * r
 div $t6,$t6,$t1		#(p * r / q)
 div $t7,$t3,$t4		# w / x
 add $t8,$t6,$t7		#(p * r / q) + (w / x)
-sub $t8,$t8,$t5		#(p * r / q) + (w / x) � y
+sub $t8,$t8,$t5		#(p * r / q) + (w / x) – y
 
 #storing final answer in variable z, in t9
 
